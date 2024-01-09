@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loryszek</h1>
-<h3 align="center">A passionate Fullstack developer from Poland</h3>
+<h3 align="center">A passionate Java/Python developer from Poland</h3>
 
-- 🔭 I’m currently working on **invoice program**
+- 🔭 I’m currently working on **AutoDataEntryApp**
 
 - 🌱 I’m currently learning **Python**
 
